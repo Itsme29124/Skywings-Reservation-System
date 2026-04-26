@@ -1,0 +1,4 @@
+com\skywings\flightservice\FlightServiceApplication.class
+com\skywings\flightservice\controller\FlightController.class
+com\skywings\flightservice\repository\FlightRepository.class
+com\skywings\flightservice\entity\Flight.class

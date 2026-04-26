@@ -1,0 +1,5 @@
+com\skywings\bookingservice\entity\Booking$Passenger.class
+com\skywings\bookingservice\repository\BookingRepository.class
+com\skywings\bookingservice\BookingServiceApplication.class
+com\skywings\bookingservice\entity\Booking.class
+com\skywings\bookingservice\controller\BookingController.class
